@@ -1,0 +1,48 @@
+body .form{
+    background-image: url("./image-header-desktop.jpg");
+    background-position: 100% 100%;
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-size: cover;
+    width: 50%; 
+    background-color: hsl(277, 64%, 61%);
+    background-blend-mode: darken;
+
+}
+body{
+    color: white;
+    background-color: hsl(233, 47%, 7%);
+    font-family: 'Inter', sans-serif;
+}
+.Design{
+    /*border: 2px solid blue;*/
+    padding: 30px;
+    background-color:hsl(244, 38%, 16%);
+    width: 50%;
+    padding-top: 60px;
+    
+}
+#insights{
+    color: hsl(277, 64%, 61%);
+
+}
+
+
+/*.form{
+    /*border: 3px solid black;*/
+    /*padding: 20px;
+    width: 50%;*/
+/*}*/
+.maincontainer{
+    /*border: 3px solid red;*/
+    display:  flex;
+    height: 70vh;
+    margin-top: 80px;
+}
+.smallbox{
+
+    /*padding-right: 30px green;*/
+    display: flex;
+    justify-content: space-between;
+    width: 75%;
+}
